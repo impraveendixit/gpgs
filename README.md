@@ -1,4 +1,3 @@
-========================================
  GPS-based Pilot Guidance System (GPGS):
 ========================================
 
@@ -10,3 +9,7 @@ INTRODUCTION:
 	activities. The system interfaces GPS sensor and RADAR altimeter to gather positional as well as Above Ground 
 	Level (AGL) height. The data acquisition hardware is designed using PC-104 architecture of embedded computer 
 	standards. The software provides a simple graphical interface displaying maps and different navigation information required.
+
+Building:
+----------
+svgalib is required to be compiled first.
